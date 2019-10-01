@@ -1,0 +1,10 @@
+h1,h2{
+    text-align: center;
+}
+div>ul{
+    width: 38%;
+    list-style: none;
+    border: 2px solid green;
+    margin:auto;
+    padding: 20px;
+}
